@@ -22,7 +22,7 @@ The goals of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./test_images_out/whiteCarLaneSwitch.jpg "Full processed"
+[image1]: /test_images_out/whiteCarLaneSwitch.jpg "Full processed"
 
 
 ---
